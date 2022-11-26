@@ -1,5 +1,8 @@
 # Extinction
 
+
+![Screenshot from simple_aac](https://user-images.githubusercontent.com/96717673/204088247-1eff60f8-eac8-421a-85f7-18d8e1242b29.png)
+
 Different Components : 
 
 (A.)
