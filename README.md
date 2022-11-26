@@ -1,6 +1,7 @@
 # Extinction
 
-https://drive.google.com/file/d/1Do_hq4qGuuIB6aouQuaGMd0co0IaAT1S/view?usp=share_link
+
+Gamethrough Part - 1 (Vedio Link) : https://drive.google.com/file/d/1Do_hq4qGuuIB6aouQuaGMd0co0IaAT1S/view?usp=share_link
 
 ![Screenshot from simple_aac](https://user-images.githubusercontent.com/96717673/204088247-1eff60f8-eac8-421a-85f7-18d8e1242b29.png)
 
