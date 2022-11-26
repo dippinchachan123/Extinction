@@ -10,6 +10,8 @@ Different Components :
 
 (C.)
 ![SUPPORT_4A](https://user-images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)
+![SUPPORT_4A](https://user-images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)
+![SUPPORT_4A](https://user-images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)
 
 (D.)
 ![SUPPORT_4C](https://user-images.githubusercontent.com/96717673/204087127-ccd73381-6305-4b20-b536-c8a2462ea92f.png)
