@@ -17,29 +17,31 @@ Gamethrough Part - 1 (Vedio Link) : https://drive.google.com/file/d/1Do_hq4qGuuI
 ![Screenshot from simple_aac](https://user-images.githubusercontent.com/96717673/204088247-1eff60f8-eac8-421a-85f7-18d8e1242b29.png)
 
  # The linguistic terminal to interact with Alien Planet
-#![Screenshot from simple_aac - 3](https://user-images.githubusercontent.com/96717673/204092143-79c797b2-02a2-4e7a-83a9-d7b6518c0e6a.png)
+ # ![Screenshot from simple_aac - 3](https://user-images.githubusercontent.com/96717673/204092143-79c797b2-02a2-4e7a-83a9-d7b6518c0e6a.png)
 #
 # Different Components : 
 
- # (A.) Miners - Mine and extract out the raw Ore.
+ (A.) Miners - Mine and extract out the raw Ore.
  # ![cell](https://user-images.githubusercontent.com/96717673/204087748-2944321b-3f5a-4011-8d5e-49ea509df4ec.png)
  
- # (B.) Conveyer Belt - To transverse the products from place to place.
- # ![SUPPORT_4A](https://user-images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)# ![SUPPORT_4A](https://user-   images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)# ![SUPPORT_4A](https://user-images.githubusercontent.com/96717673  /204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)
+ (B.) Conveyer Belt - To transverse the products from place to place.
+ # ![SUPPORT_4A](https://user-images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png) 
+ # ![SUPPORT_4A](https://user-   images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)
+ # ![SUPPORT_4A](https://user-images.githubusercontent.com/96717673  /204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)
 
- # (D.) Input Cell - Encode and collects the messages from the alien.
+ (C.) Input Cell - Encode and collects the messages from the alien.
  # ![1](https://user-images.githubusercontent.com/96717673/204088122-999eacf2-8ffc-4aa0-9743-600d96e5310b.png)
 
  
- # (C.) Output Cell - Convert messages coming from Alien through Input Probe in optical information.   
+ (D.) Output Cell - Convert messages coming from Alien through Input Probe in optical information.   
  # ![LIGHT_2B](https://user-images.githubusercontent.com/96717673/204087120-0595876d-f88c-4bfc-8495-8cf566615d24.png)
 
  
- # (E.) E- Cell - Provide source of power to operate differnt cells and devices.
+ (E.) E- Cell - Provide source of power to operate differnt cells and devices.
  # ![SUPPORT_4C](https://user-images.githubusercontent.com/96717673/204087127-ccd73381-6305-4b20-b536-c8a2462ea92f.png)
 
  
- # (F.) Red Cells - Damaged cells of the alien planet,which gets damaged by the meteors or other calamities.
+ (F.) Red Cells - Damaged cells of the alien planet,which gets damaged by the meteors or other calamities.
  # ![PIPES_1A](https://user-images.githubusercontent.com/96717673/204087122-e375e810-8bc9-4ad3-8bed-9b536ce60d9c.png)
 
  
