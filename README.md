@@ -17,4 +17,7 @@ Different Components :
 (E.)
 ![cell](https://user-images.githubusercontent.com/96717673/204087748-2944321b-3f5a-4011-8d5e-49ea509df4ec.png)
 
+(F.)![1](https://user-images.githubusercontent.com/96717673/204088122-999eacf2-8ffc-4aa0-9743-600d96e5310b.png)
+
+
 
