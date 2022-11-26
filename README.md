@@ -1,6 +1,15 @@
 # Extinction
-
-
+#
+Extinction is a Resource management and mining game based around the biology of a giant living Planet.
+#
+# Game Story 
+#
+The natural resources of the Earth have been depleted...but scientist have found a mysterious planet which is itself a living entity in itself,tye planet has resurces inside it,but the size of the planet is extremelt large and ore density is relatively low...so,it took years to search the high ore density region on its surface...but a planet is itself living,it can talk in its own language(which we have to decode)by understanding its Linguistics...by doing years of research scientist have made some high technical probes and tools to control,and interact with the planet.
+#
+#
+A robot has been sent to the planet,within limited time(fuel is limited)it has to find the region of high ore density and make proper networks of mining.
+#
+#
 Gamethrough Part - 1 (Vedio Link) : https://drive.google.com/file/d/1Do_hq4qGuuIB6aouQuaGMd0co0IaAT1S/view?usp=share_link
 
 ![Screenshot from simple_aac](https://user-images.githubusercontent.com/96717673/204088247-1eff60f8-eac8-421a-85f7-18d8e1242b29.png)
