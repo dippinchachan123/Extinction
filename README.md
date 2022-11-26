@@ -15,5 +15,6 @@ Different Components :
 ![SUPPORT_4C](https://user-images.githubusercontent.com/96717673/204087127-ccd73381-6305-4b20-b536-c8a2462ea92f.png)
 
 (E.)
-![image](https://user-images.githubusercontent.com/96717673/204087519-3221e5f2-068e-4cc5-a73a-49f6333a66ea.png)
+![cell](https://user-images.githubusercontent.com/96717673/204087748-2944321b-3f5a-4011-8d5e-49ea509df4ec.png)
+
 
