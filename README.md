@@ -25,9 +25,7 @@ Gamethrough Part - 1 (Vedio Link) : https://drive.google.com/file/d/1Do_hq4qGuuI
  # ![cell](https://user-images.githubusercontent.com/96717673/204087748-2944321b-3f5a-4011-8d5e-49ea509df4ec.png)
  
  (B.) Conveyer Belt - To transverse the products from place to place.
- # ![SUPPORT_4A](https://user-images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)
- # ![SUPPORT_4A](https://user-images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)
- # ![SUPPORT_4A](https://user-images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)
+ # ![SUPPORT_4A](https://user-images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)![SUPPORT_4A](https://user-images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)![SUPPORT_4A](https://user-images.githubusercontent.com/96717673/204087123-61ab924a-bca7-45f8-a356-5d93337280aa.png)
 
  (C.) Input Cell - Encode and collects the messages from the alien.
  # ![1](https://user-images.githubusercontent.com/96717673/204088122-999eacf2-8ffc-4aa0-9743-600d96e5310b.png)
