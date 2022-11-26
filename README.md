@@ -4,8 +4,9 @@ Extinction is a Resource management and mining game based around the biology of 
 #
 # Game Story 
 #
-The natural resources of the Earth have been depleted...but scientist have found a mysterious planet which is itself a living entity in itself,tye planet has resurces inside it,but the size of the planet is extremelt large and ore density is relatively low...so,it took years to search the high ore density region on its surface...but a planet is itself living,it can talk in its own language(which we have to decode)by understanding its Linguistics...by doing years of research scientist have made some high technical probes and tools to control,and interact with the planet.
+The natural resources of the Earth have been depleted...but scientist have found a mysterious planet which is itself a living entity in itself,the planet has resources inside it,but the size of the planet is extremelt large and ore density is relatively low...so,it will took years to search the high ore density region on its surface...but the planet is itself living,it can talk in its own language(which we have to decode) by understanding its Linguistics.
 #
+By doing years of research scientist have made some high technical probes and tools to control,and interact with the planet.
 #
 A robot has been sent to the planet,within limited time(fuel is limited)it has to find the region of high ore density and make proper networks of mining.
 #
